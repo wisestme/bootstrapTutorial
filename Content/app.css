@@ -54,3 +54,12 @@ range-title {
     width: 70px;
     height: 70px;
 }
+
+article {
+    padding: 40px;
+}
+
+article img {
+    width: 100%;
+    height: 100%;
+}
