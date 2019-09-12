@@ -6,4 +6,12 @@
 	.range-list a {
 		display: block;
 	}
+
+	.range-list img {
+		width: 33%;
+		height: 33%;
+		margin-right: 10px;
+		margin-bottom: 30px;
+		margin-top: 20px;
+	}
 }
