@@ -15,3 +15,12 @@
 		margin-top: 20px;
 	}
 }
+
+.row.display-table {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.row.display-table > [class*='col-'] {
+	flex-grow: 1;
+}
