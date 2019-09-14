@@ -6,6 +6,9 @@
     margin-bottom: 0;
 }
 
+.navbar {
+    background-color: #161d25;
+}
 .navbar-inverse .navbar-nav>li>a {
     color: #bbb;
 }
