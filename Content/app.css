@@ -11,8 +11,9 @@
 }
 
 .navbar img {
-    width: 70%;
-    height: 70%;
+    margin-top: 20px;
+    width: 80%;
+    height: 80%;
     border-radius: 50%;
 }
 
@@ -108,4 +109,17 @@ article p {
 @media screen and (min-width: 768px){
 .navbar-nav.navbar-right:last-child {
     margin-right: 3px;
+}
+
+
+}
+
+@media screen and (max-width: 767px){
+    .navbar img {
+    margin-top: 10px;
+    margin-bottom: 5px;
+   width: 15%;
+   height: 15%;
+    
+}
 }
